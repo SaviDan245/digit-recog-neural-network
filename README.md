@@ -4,3 +4,6 @@ Written from scratch with the help of Tariq Rashid's book "Make your own neural 
 
 ### Efficiency
  — 97,62% with 300 hidden layers, 0.1 learning rate, and 10 epochs.
+
+### Hardware
+Neural Network was trained on Apple Silicon M1 chip.
